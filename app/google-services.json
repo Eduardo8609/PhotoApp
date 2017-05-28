@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "495790948743",
+    "firebase_url": "https://photicker.firebaseio.com",
+    "project_id": "photicker",
+    "storage_bucket": "photicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495790948743:android:db68f329217980f3",
+        "android_client_info": {
+          "package_name": "com.devmasterteam.photicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495790948743-v3o4tl4itsi4t5j3o1hnutmqotskoge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-rl7bb-aDjxT3IiiVxoKypjYTDxbDIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
